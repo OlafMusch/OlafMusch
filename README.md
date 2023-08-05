@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlafMusch
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning git and Python
+- 🌱 I’m currently learning git
 
 <!---
 OlafMusch/OlafMusch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
